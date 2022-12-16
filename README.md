@@ -1,2 +1,3 @@
-# RG2022
-Računarska grafika 2022 - Pavle M
+# Računarska grafika 2022
+Neki od domaćih i projektni zadatak iz računarske grafike.
+- Pavle Milanović
